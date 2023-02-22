@@ -67,13 +67,17 @@ public class Bot extends TelegramLongPollingBot {
 
         //Сравниваем текст пользователя с нашими командами, на основе этого формируем ответ
         if(textMsg.equals("/start"))
-            response = "Приветствую, бот знает много цитат. \nВсего 9 команд на инициализацию цитаты.\nПриятного дня !";
+            response = "Приветствую, бот знает много цитат. \n" +
+                    "Всего 9 команд на инициализацию цитаты.\n" +
+                    "Приятного дня !" +
+                    "/get";
         else if(textMsg.equals("/get") || textMsg.equals("Просвяти") || textMsg.equals("Расскажи")
                 || textMsg.equals("Еще") || textMsg.equals("Валяй") || textMsg.equals("Ну-ка")
                 || textMsg.equals("Давай") || textMsg.equals("Следующая") || textMsg.equals("Next"))
             response = storage.getRandQuote();
         else
-            response = "Сообщение не распознано";
+            response = "Сообщение не распознано\n" +
+                    "Попробуй /get";
 
         return response;
     }
