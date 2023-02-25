@@ -8,7 +8,9 @@ import org.telegram.telegrambots.meta.api.objects.replykeyboard.ReplyKeyboardMar
 import org.telegram.telegrambots.meta.api.objects.replykeyboard.buttons.KeyboardButton;
 import org.telegram.telegrambots.meta.api.objects.replykeyboard.buttons.KeyboardRow;
 import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
+import org.telegram.telegrambots.meta.api.objects.*;
 
+import java.awt.*;
 import java.util.ArrayList;
 
 public class Bot extends TelegramLongPollingBot {
@@ -22,9 +24,9 @@ public class Bot extends TelegramLongPollingBot {
     Bot()
     {
         storage = new Storage();
-
+        replyKeyboardMarkup = new ReplyKeyboardMarkup();
+        initKeyboard();
     }
-
     @Override
     public String getBotUsername() {
         return BOT_NAME;
@@ -53,10 +55,11 @@ public class Bot extends TelegramLongPollingBot {
                 outMess.setChatId(chatId);
                 outMess.setText(response);
 
-                //Отправка в чат
-                execute(outMess);
                 // Add keyboardmarkup
                 outMess.setReplyMarkup(replyKeyboardMarkup);
+                //Отправка в чат
+                execute(outMess);
+
             }
         } catch (TelegramApiException e) {
             e.printStackTrace();
@@ -68,12 +71,9 @@ public class Bot extends TelegramLongPollingBot {
         //Сравниваем текст пользователя с нашими командами, на основе этого формируем ответ
         if(textMsg.equals("/start"))
             response = "Приветствую, бот знает много цитат. \n" +
-                    "Всего 9 команд на инициализацию цитаты.\n" +
                     "Приятного дня !" +
                     "/get";
-        else if(textMsg.equals("/get") || textMsg.equals("Просвяти") || textMsg.equals("Расскажи")
-                || textMsg.equals("Еще") || textMsg.equals("Валяй") || textMsg.equals("Ну-ка")
-                || textMsg.equals("Давай") || textMsg.equals("Следующая") || textMsg.equals("Next"))
+        else if(textMsg.equals("/get") || textMsg.equals("Просвяти"))
             response = storage.getRandQuote();
         else
             response = "Сообщение не распознано\n" +
