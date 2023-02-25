@@ -16,7 +16,7 @@ import java.util.ArrayList;
 public class Bot extends TelegramLongPollingBot {
     //создаем две константы, присваиваем им значения токена и имя бота соответсвтенно
     //вместо звездочек подставляйте свои данные
-    final private String BOT_TOKEN = "6262786964:AAGFuNJffv9OL5QlXOsUYsresluFVK7Va-U";
+    final private String BOT_TOKEN = "";
     final private String BOT_NAME = "myShowTextBot";
     Storage storage;
     ReplyKeyboardMarkup replyKeyboardMarkup = new ReplyKeyboardMarkup();
