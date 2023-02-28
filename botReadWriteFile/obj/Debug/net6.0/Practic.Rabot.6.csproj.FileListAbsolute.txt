@@ -1,0 +1,75 @@
+C:\Users\Im Code\source\repos\Practic.Rabot.6\bin\Debug\net6.0\Practic.Rabot.6.exe
+C:\Users\Im Code\source\repos\Practic.Rabot.6\bin\Debug\net6.0\Practic.Rabot.6.deps.json
+C:\Users\Im Code\source\repos\Practic.Rabot.6\bin\Debug\net6.0\Practic.Rabot.6.runtimeconfig.json
+C:\Users\Im Code\source\repos\Practic.Rabot.6\bin\Debug\net6.0\Practic.Rabot.6.dll
+C:\Users\Im Code\source\repos\Practic.Rabot.6\bin\Debug\net6.0\Practic.Rabot.6.pdb
+C:\Users\Im Code\source\repos\Practic.Rabot.6\obj\Debug\net6.0\Practic.Rabot.6.csproj.AssemblyReference.cache
+C:\Users\Im Code\source\repos\Practic.Rabot.6\obj\Debug\net6.0\Practic.Rabot.6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Im Code\source\repos\Practic.Rabot.6\obj\Debug\net6.0\Practic.Rabot.6.AssemblyInfoInputs.cache
+C:\Users\Im Code\source\repos\Practic.Rabot.6\obj\Debug\net6.0\Practic.Rabot.6.AssemblyInfo.cs
+C:\Users\Im Code\source\repos\Practic.Rabot.6\obj\Debug\net6.0\Practic.Rabot.6.csproj.CoreCompileInputs.cache
+C:\Users\Im Code\source\repos\Practic.Rabot.6\obj\Debug\net6.0\Practic.Rabot.6.dll
+C:\Users\Im Code\source\repos\Practic.Rabot.6\obj\Debug\net6.0\refint\Practic.Rabot.6.dll
+C:\Users\Im Code\source\repos\Practic.Rabot.6\obj\Debug\net6.0\Practic.Rabot.6.pdb
+C:\Users\Im Code\source\repos\Practic.Rabot.6\obj\Debug\net6.0\Practic.Rabot.6.genruntimeconfig.cache
+C:\Users\Im Code\source\repos\Practic.Rabot.6\obj\Debug\net6.0\ref\Practic.Rabot.6.dll
+C:\Users\user\source\repos\Practic.Rabot.6\bin\Debug\net6.0\Practic.Rabot.6.exe
+C:\Users\user\source\repos\Practic.Rabot.6\bin\Debug\net6.0\Practic.Rabot.6.deps.json
+C:\Users\user\source\repos\Practic.Rabot.6\bin\Debug\net6.0\Practic.Rabot.6.runtimeconfig.json
+C:\Users\user\source\repos\Practic.Rabot.6\bin\Debug\net6.0\Practic.Rabot.6.dll
+C:\Users\user\source\repos\Practic.Rabot.6\bin\Debug\net6.0\Practic.Rabot.6.pdb
+C:\Users\user\source\repos\Practic.Rabot.6\obj\Debug\net6.0\Practic.Rabot.6.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Practic.Rabot.6\obj\Debug\net6.0\Practic.Rabot.6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Practic.Rabot.6\obj\Debug\net6.0\Practic.Rabot.6.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Practic.Rabot.6\obj\Debug\net6.0\Practic.Rabot.6.AssemblyInfo.cs
+C:\Users\user\source\repos\Practic.Rabot.6\obj\Debug\net6.0\Practic.Rabot.6.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Practic.Rabot.6\obj\Debug\net6.0\Practic.Rabot.6.dll
+C:\Users\user\source\repos\Practic.Rabot.6\obj\Debug\net6.0\refint\Practic.Rabot.6.dll
+C:\Users\user\source\repos\Practic.Rabot.6\obj\Debug\net6.0\Practic.Rabot.6.pdb
+C:\Users\user\source\repos\Practic.Rabot.6\obj\Debug\net6.0\Practic.Rabot.6.genruntimeconfig.cache
+C:\Users\user\source\repos\Practic.Rabot.6\obj\Debug\net6.0\ref\Practic.Rabot.6.dll
+C:\Users\user\source\repos\Practic.Rabot.6.Repair\bin\Debug\net6.0\Practic.Rabot.6.exe
+C:\Users\user\source\repos\Practic.Rabot.6.Repair\bin\Debug\net6.0\Practic.Rabot.6.deps.json
+C:\Users\user\source\repos\Practic.Rabot.6.Repair\bin\Debug\net6.0\Practic.Rabot.6.runtimeconfig.json
+C:\Users\user\source\repos\Practic.Rabot.6.Repair\bin\Debug\net6.0\Practic.Rabot.6.dll
+C:\Users\user\source\repos\Practic.Rabot.6.Repair\bin\Debug\net6.0\Practic.Rabot.6.pdb
+C:\Users\user\source\repos\Practic.Rabot.6.Repair\obj\Debug\net6.0\Practic.Rabot.6.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Practic.Rabot.6.Repair\obj\Debug\net6.0\Practic.Rabot.6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Practic.Rabot.6.Repair\obj\Debug\net6.0\Practic.Rabot.6.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Practic.Rabot.6.Repair\obj\Debug\net6.0\Practic.Rabot.6.AssemblyInfo.cs
+C:\Users\user\source\repos\Practic.Rabot.6.Repair\obj\Debug\net6.0\Practic.Rabot.6.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Practic.Rabot.6.Repair\obj\Debug\net6.0\Practic.Rabot.6.dll
+C:\Users\user\source\repos\Practic.Rabot.6.Repair\obj\Debug\net6.0\refint\Practic.Rabot.6.dll
+C:\Users\user\source\repos\Practic.Rabot.6.Repair\obj\Debug\net6.0\Practic.Rabot.6.pdb
+C:\Users\user\source\repos\Practic.Rabot.6.Repair\obj\Debug\net6.0\Practic.Rabot.6.genruntimeconfig.cache
+C:\Users\user\source\repos\Practic.Rabot.6.Repair\obj\Debug\net6.0\ref\Practic.Rabot.6.dll
+C:\Users\user\source\repos\Practic.Rabot.6.Rep\bin\Debug\net6.0\Practic.Rabot.6.exe
+C:\Users\user\source\repos\Practic.Rabot.6.Rep\bin\Debug\net6.0\Practic.Rabot.6.deps.json
+C:\Users\user\source\repos\Practic.Rabot.6.Rep\bin\Debug\net6.0\Practic.Rabot.6.runtimeconfig.json
+C:\Users\user\source\repos\Practic.Rabot.6.Rep\bin\Debug\net6.0\Practic.Rabot.6.dll
+C:\Users\user\source\repos\Practic.Rabot.6.Rep\bin\Debug\net6.0\Practic.Rabot.6.pdb
+C:\Users\user\source\repos\Practic.Rabot.6.Rep\obj\Debug\net6.0\Practic.Rabot.6.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Practic.Rabot.6.Rep\obj\Debug\net6.0\Practic.Rabot.6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Practic.Rabot.6.Rep\obj\Debug\net6.0\Practic.Rabot.6.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Practic.Rabot.6.Rep\obj\Debug\net6.0\Practic.Rabot.6.AssemblyInfo.cs
+C:\Users\user\source\repos\Practic.Rabot.6.Rep\obj\Debug\net6.0\Practic.Rabot.6.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Practic.Rabot.6.Rep\obj\Debug\net6.0\Practic.Rabot.6.dll
+C:\Users\user\source\repos\Practic.Rabot.6.Rep\obj\Debug\net6.0\refint\Practic.Rabot.6.dll
+C:\Users\user\source\repos\Practic.Rabot.6.Rep\obj\Debug\net6.0\Practic.Rabot.6.pdb
+C:\Users\user\source\repos\Practic.Rabot.6.Rep\obj\Debug\net6.0\Practic.Rabot.6.genruntimeconfig.cache
+C:\Users\user\source\repos\Practic.Rabot.6.Rep\obj\Debug\net6.0\ref\Practic.Rabot.6.dll
+C:\Users\user\Desktop\Practic.Rabot.6.Rep\obj\Debug\net6.0\Practic.Rabot.6.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Practic.Rabot.6.Rep\obj\Debug\net6.0\Practic.Rabot.6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Practic.Rabot.6.Rep\obj\Debug\net6.0\Practic.Rabot.6.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Practic.Rabot.6.Rep\obj\Debug\net6.0\Practic.Rabot.6.AssemblyInfo.cs
+C:\Users\user\Desktop\Practic.Rabot.6.Rep\obj\Debug\net6.0\Practic.Rabot.6.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Practic.Rabot.6.Rep\obj\Debug\net6.0\Practic.Rabot.6.dll
+C:\Users\user\Desktop\Practic.Rabot.6.Rep\obj\Debug\net6.0\refint\Practic.Rabot.6.dll
+C:\Users\user\Desktop\Practic.Rabot.6.Rep\obj\Debug\net6.0\Practic.Rabot.6.pdb
+C:\Users\user\Desktop\Practic.Rabot.6.Rep\bin\Debug\net6.0\Practic.Rabot.6.exe
+C:\Users\user\Desktop\Practic.Rabot.6.Rep\bin\Debug\net6.0\Practic.Rabot.6.deps.json
+C:\Users\user\Desktop\Practic.Rabot.6.Rep\bin\Debug\net6.0\Practic.Rabot.6.runtimeconfig.json
+C:\Users\user\Desktop\Practic.Rabot.6.Rep\bin\Debug\net6.0\Practic.Rabot.6.dll
+C:\Users\user\Desktop\Practic.Rabot.6.Rep\bin\Debug\net6.0\Practic.Rabot.6.pdb
+C:\Users\user\Desktop\Practic.Rabot.6.Rep\obj\Debug\net6.0\Practic.Rabot.6.genruntimeconfig.cache
+C:\Users\user\Desktop\Practic.Rabot.6.Rep\obj\Debug\net6.0\ref\Practic.Rabot.6.dll
