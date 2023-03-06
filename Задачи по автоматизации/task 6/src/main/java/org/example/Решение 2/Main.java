@@ -3,31 +3,6 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
 
-        MainBasket mainBasket = new MainBasket();
-        /** Решение */
-
-        mainBasket.addProduct("Холодильник",0);
-        mainBasket.addProduct("Чайник",1);
-        mainBasket.addProduct("Тостер",2);
-        mainBasket.addProduct("Пакет",3);
-
-        mainBasket.getProducts((ArrayList) mainBasket.list);
-
-        mainBasket.removeProduct("Чайник");
-
-        mainBasket.getProducts((ArrayList) mainBasket.list);
-
-        mainBasket.updateProductQuantity("Пылесос",2);
-
-        mainBasket.getProducts((ArrayList) mainBasket.list);
-
-        System.out.println();
-        System.out.print("Индекс товара пылесос: ");
-
-        mainBasket.getProductQuantity("Пылесос");
-
-
-
         Basket basket = new BasketImpl();
         basket.addProduct("Хлеб", 2);
         basket.addProduct("Молоко", 1);
